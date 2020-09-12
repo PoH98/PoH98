@@ -2,7 +2,7 @@
 > PoH98 originally named from Sword Art Online PoH, which is a freakin killer in the story. A big bad guy!
 
 # ⚡ Likes
-> Creating things which is useless and nobody will use
+> Creating things which is useless and nobody will use <br/>
 > Crafting bots for doing all the jobs of me
 
 🌱 I’m currently learning website based, as previously only doing plugins and some exe programs in C#

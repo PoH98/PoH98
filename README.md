@@ -6,6 +6,10 @@
 > Crafting bots for doing all the jobs of me
 
 🌱 I’m currently learning website based, as previously only doing plugins and some exe programs in C#
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PoH98&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoH98"/>
+
 ## 📫 How to reach me: <br/>
 > Email: shunyuan98@gmail.com<br/>
 > Telegram: PoH98<br/>

@@ -13,7 +13,6 @@
 ## 📫 How to reach me: <br/>
 > Email: shunyuan98@gmail.com<br/>
 > Telegram: PoH98<br/>
-> QQ: 2721897455<br/>
 
 <!--
 **PoH98/PoH98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
